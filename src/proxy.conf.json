@@ -1,5 +1,5 @@
 {
-  "/api": {
+  "/api/*": {
     "target": "https://remote.northwoodtechnology.ie:8443/ProductsWebOnly",
     "secure": false
   }
