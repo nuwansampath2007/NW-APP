@@ -78,6 +78,10 @@
               "browserTarget": "NW-APP:build:development"
             }
           },
+          "options": {
+            "browserTarget": "NW-APP:build",
+            "proxyConfig": "src/proxy.conf.json"
+          },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
